@@ -49,3 +49,9 @@ pokemon2.ataques.push({
 })
 
 console.log(pokemon1.ataques,pokemon2.ataques)
+
+
+
+
+
+

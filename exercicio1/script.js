@@ -25,3 +25,6 @@ sacolao.push(frutas,frutas2,frutas3)
 
 console.log(sacolao)
 
+
+
+

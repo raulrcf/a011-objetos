@@ -22,3 +22,6 @@ console.log(filme.transmissoesHoje)
 
 console.log(filme.transmissoesHoje[1].horario)
 
+
+
+
